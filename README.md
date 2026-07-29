@@ -19,7 +19,7 @@ To avoid getting stuck on data formatting while learning new AI concepts, every 
 
 ### 📺 Visual YouTube Alternatives (Step 1 Sandbox)
 - [ ] **Math Visualized:** [3Blue1Brown - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (Vector spaces, matrix multiplication).
-- [ ] **Data Visualized:** [Keith Galli - Pandas Complete Data Science Tutorial](https://www.youtube.com/watch?vmEHCJofslg) (Data cleaning & transformation).
+- [ ] **Data Visualized:** [Keith Galli - Pandas Complete Data Science Tutorial](https://www.youtube.com/watch?v=2uvysYbKdjM) (Data cleaning & transformation).
 - [ ] **Stats Visualized:** [StatQuest - Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) (Mean, variance, probability distributions).
 
 ### ⚡ Step 2: Applied MNQ Project
